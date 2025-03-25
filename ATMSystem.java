@@ -82,3 +82,6 @@ class ATM {
                 System.exit(0);
                 break;
             default:
+        }
+    }
+}
